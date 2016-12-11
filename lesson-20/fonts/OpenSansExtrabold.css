@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'OpenSansExtrabold';
+    src: url('fonts/OpenSansExtrabold.eot');
+    src: url('fonts/OpenSansExtrabold.eot') format('embedded-opentype'),
+         url('fonts/OpenSansExtrabold.woff2') format('woff2'),
+         url('fonts/OpenSansExtrabold.woff') format('woff'),
+         url('fonts/OpenSansExtrabold.ttf') format('truetype'),
+         url('fonts/OpenSansExtrabold.svg#OpenSansExtrabold') format('svg');
+}
