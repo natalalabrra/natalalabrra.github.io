@@ -1,0 +1,12 @@
+h1 {
+	text-align: center;
+}
+p {
+	color: green;
+}
+body {
+	background-color: #81817f;
+}
+p.second {
+	color: black;
+}
